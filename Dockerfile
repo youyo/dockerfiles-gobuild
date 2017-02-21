@@ -1,4 +1,4 @@
-FROM golang:1.7.1-wheezy
+FROM golang:1.8-wheezy
 MAINTAINER youyo
 
 RUN apt-get update && \
